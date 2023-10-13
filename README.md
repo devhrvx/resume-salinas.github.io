@@ -1,1 +1,1 @@
-Click to proceed to [main page.](/index.html)
+Click to proceed to [main page.](Salinas_ILS/sources/webpages)
