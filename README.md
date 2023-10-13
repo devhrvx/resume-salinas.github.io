@@ -1,1 +1,1 @@
-Click to proceed to [main page.](resume-salinas.github.io/Salinas_ILS/sources/webpages/index.html)
+Click to proceed to [main page.](/Salinas_ILS/sources/webpages/index.html)
